@@ -6,4 +6,4 @@ New jobs can be created/listed.
 
 Jobs can be updated and deleted.
 
-![The home page](images/homePage.png)
+![The home page](images/homePage.PNG)
