@@ -34,7 +34,7 @@
     </div>
     <div class="form-group">
       <label>Contact User</label>
-      <input type="email" class="form-control" name="contact_user" required>
+      <input type="text" class="form-control" name="contact_user" required>
     </div>
     <div class="form-group">
       <label>Contact Email</label>
